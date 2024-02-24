@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @briannaBrie
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter Development
-- 💞️ I’m looking to collaborate on Any form of Mobile Developnent
+- 💞️ I’m looking to collaborate on Any form of Mobile Development
 - 📫 You can reach me on my email: bridgetmukuhi@gmail.com
 
 <!---
