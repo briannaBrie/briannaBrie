@@ -10,10 +10,10 @@
 
 ## Languages
 
-<img height="32" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /> <img height="32" src="https://cdn.simpleicons.org/flutter?viewbox=auto" />
-<img height="32" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
+<img height="32" src="https://cdn.simpleicons.org/flutter?viewbox=auto" /> <img height="32" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/android?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/swift?viewbox=auto" />
+<img height="32" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/css?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/c++?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/react?viewbox=auto" />
