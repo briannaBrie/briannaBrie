@@ -1,7 +1,6 @@
 ## Introduction
-- 👋 Hi, I’m Bridget
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently a student of Android and  Flutter Development
+- 🌱 Forever a student of Android, IOS and Flutter Development
 
 ## Apps in Development
 - Revela  - A spiritual app with Catholic prayers and various bible versions
@@ -13,6 +12,8 @@
 
 <img height="32" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /> <img height="32" src="https://cdn.simpleicons.org/flutter?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
+<img height="32" src="https://cdn.simpleicons.org/android?viewbox=auto" />
+<img height="32" src="https://cdn.simpleicons.org/ios?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/css?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/c++?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/react?viewbox=auto" />
