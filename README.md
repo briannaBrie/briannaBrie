@@ -1,3 +1,4 @@
+## Introduction
 - 👋 Hi, I’m @briannaBrie
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently a student of Android and  Flutter Development
@@ -5,7 +6,7 @@
 - 📫 You can reach me on my email: bridgetmukuhi@gmail.com
 
 
-- Languages
+## Languages
 
 <img height="32" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /> <img height="32" src="https://cdn.simpleicons.org/flutter?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
@@ -14,7 +15,8 @@
 <img height="32" src="https://cdn.simpleicons.org/react?viewbox=auto" />
 <img height="32" src="https://cdn.simpleicons.org/python?viewbox=auto" />
 
-- The Most used languages
+
+## The Most used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briannaBrie&layout=donut-vertical)](https://github.com/briannaBrie/github-readme-stats)
 <!---
