@@ -3,7 +3,7 @@
 - 🌱 Forever a student of Android, IOS and Flutter Development
 
 ## Apps in Development
-- Revela  - A spiritual app with Catholic prayers and various bible versions
+- Revela: Bible & Prayer - A spiritual app with Catholic prayers and various bible versions
 - J-Fitness  -  A workout app with various workout programs and capability to add new workouts
 - J-Lugha  - A learning app to learn Croatian, as I learn from a croatian teacher.
 
