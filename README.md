@@ -4,8 +4,9 @@
 
 ## Apps in Development
 - Revela: Bible & Prayer - A spiritual app with Catholic prayers and various bible versions
+- LughaUcit  - A learning app to learn Croatian, as I learn from a croatian teacher.
 - J-Fitness  -  A workout app with various workout programs and capability to add new workouts
-- J-Lugha  - A learning app to learn Croatian, as I learn from a croatian teacher.
+
 
 
 ## Languages
