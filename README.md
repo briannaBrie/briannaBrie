@@ -9,6 +9,15 @@
 ## Apps in Testing
 - Revela: Bible & Prayer - A spiritual app with Catholic prayers and various bible versions
 
+## Revela Screenshots
+<p align="left">
+    <img src="revela2.jpg" alt="Description" width="100">
+  <img src="revela4.jpg" alt="Description" width="100">
+   <img src="revela5.jpg" alt="Description" width="100">
+   <img src="revela6.jpg" alt="Description" width="100">
+   <img src="revela7.jpg" alt="Description" width="100">
+</p>
+
 ## Languages
 
 <img height="32" src="https://cdn.simpleicons.org/flutter?viewbox=auto" /> <img height="32" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
@@ -26,14 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briannaBrie&layout=donut)](https://github.com/briannaBrie/github-readme-stats)
 
 
-## Revela Screenshots
-<p align="center">
-    <img src="revela2.jpg" alt="Description" width="300">
-  <img src="revela4.jpg" alt="Description" width="300">
-   <img src="revela5.jpg" alt="Description" width="300">
-   <img src="revela6.jpg" alt="Description" width="300">
-   <img src="revela7.jpg" alt="Description" width="300">
-</p>
+
 <!---
 briannaBrie/briannaBrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
