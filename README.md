@@ -3,9 +3,11 @@
 - 🌱 Forever a student of Android, IOS and Flutter Development
 
 ## Apps in Development
-- Revela: Bible & Prayer - A spiritual app with Catholic prayers and various bible versions
 - LughaUcit  - A learning app to learn Croatian, as I learn from a croatian teacher.
 - J-Fitness  -  A workout app with various workout programs and capability to add new workouts
+
+## Apps in Testing
+- Revela: Bible & Prayer - A spiritual app with Catholic prayers and various bible versions
 
 ## Languages
 
@@ -25,7 +27,13 @@
 
 
 ## Revela Screenshots
-- ![Screenshot_20250926_012100](https://github.com/user-attachments/assets/5074b256-d4e4-42bd-8579-b14fec315178) =500x250
+<p align="center">
+    <img src="revela2.jpg" alt="Description" width="300">
+  <img src="revela4.jpg" alt="Description" width="300">
+   <img src="revela5.jpg" alt="Description" width="300">
+   <img src="revela6.jpg" alt="Description" width="300">
+   <img src="revela7.jpg" alt="Description" width="300">
+</p>
 <!---
 briannaBrie/briannaBrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
